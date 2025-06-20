@@ -115,6 +115,15 @@ export type {
   SpinnerProps,
 } from './components/spinner';
 
+// highlight
+export {
+  Highlight,
+} from './components/highlight';
+
+export type {
+  HighlightProps,
+} from './components/highlight';
+
 // switch
 export {
   Switch,
@@ -170,6 +179,7 @@ export * from './components/Dialog';
 export * from './components/Label';
 export * from './components/RadioGroup';
 export * from './components/RadioGroupField';
+export * from './components/View';
 
 // utils
 export {
